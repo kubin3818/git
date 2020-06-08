@@ -1,12 +1,12 @@
-GIT v1.5.0.1 Release Notes
+GIT v2.2.7.1 Release Notes
 ==========================
 
-Fixes since v1.5.0
+Fixes since v2.2.7
 ------------------
 
 * Documentation updates
 
-  - Clarifications and corrections to 1.5.0 release notes.
+  - Clarifications and corrections to 2.2.7 release notes.
 
   - The main documentation did not link to git-remote documentation.
 
